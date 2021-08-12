@@ -1,0 +1,223 @@
+Country,Code,Date,Amount
+Papua New Guinea,PNG,2009.0,0.99
+Vanuatu,VUT,2009.0,0.972
+Tanzania,TZA,2009.0,0.965
+Solomon Islands,SLB,2009.0,0.965
+Central African Republic,CAF,2009.0,0.96
+Chad,TCD,2009.0,0.95
+Cameroon,CMR,2009.0,0.9420000000000001
+India,IND,2009.0,0.93
+Mozambique,MOZ,2009.0,0.929
+Uganda,UGA,2009.0,0.9279999999999999
+Gabon,GAB,2009.0,0.919
+Liberia,LBR,2009.0,0.912
+Kenya,KEN,2009.0,0.9009999999999999
+Angola,AGO,2009.0,0.9009999999999999
+Togo,TGO,2009.0,0.897
+Mali,MLI,2009.0,0.8759999999999999
+Nigeria,NGA,2009.0,0.87
+South Africa,ZAF,2009.0,0.8690000000000001
+Zambia,ZMB,2009.0,0.855
+Guinea-Bissau,GNB,2009.0,0.853
+Philippines,PHL,2009.0,0.8490000000000001
+Indonesia,IDN,2009.0,0.846
+Bhutan,BTN,2009.0,0.846
+Ethiopia,ETH,2009.0,0.843
+Sierra Leone,SLE,2009.0,0.8170000000000001
+Namibia,NAM,2009.0,0.8079999999999999
+Ghana,GHA,2009.0,0.805
+Iran,IRN,2009.0,0.797
+Suriname,SUR,2009.0,0.7879999999999999
+Benin,BEN,2009.0,0.785
+United Arab Emirates,ARE,2009.0,0.777
+Burkina Faso,BFA,2009.0,0.773
+Senegal,SEN,2009.0,0.772
+Pakistan,PAK,2009.0,0.762
+Malaysia,MYS,2009.0,0.758
+Thailand,THA,2009.0,0.753
+Eritrea,ERI,2009.0,0.7490000000000001
+Guinea,GIN,2009.0,0.748
+Singapore,SGP,2009.0,0.748
+Nepal,NPL,2009.0,0.742
+Belgium,BEL,2009.0,0.7340000000000001
+Afghanistan,AFG,2009.0,0.732
+Kazakhstan,KAZ,2009.0,0.701
+Trinidad and Tobago,TTO,2009.0,0.696
+Belize,BLZ,2009.0,0.693
+Oman,OMN,2009.0,0.693
+Guatemala,GTM,2009.0,0.691
+Bolivia,BOL,2009.0,0.68
+Laos,LAO,2009.0,0.6779999999999999
+Kyrgyzstan,KGZ,2009.0,0.67
+Jordan,JOR,2009.0,0.6659999999999999
+Israel,ISR,2009.0,0.665
+Bahrain,BHR,2009.0,0.6629999999999999
+Norway,NOR,2009.0,0.657
+Madagascar,MDG,2009.0,0.6559999999999999
+Niger,NER,2009.0,0.6459999999999999
+Mauritius,MUS,2009.0,0.6409999999999999
+Saudi Arabia,SAU,2009.0,0.609
+Qatar,QAT,2009.0,0.608
+Fiji,FJI,2009.0,0.607
+Latvia,LVA,2009.0,0.595
+Italy,ITA,2009.0,0.593
+Djibouti,DJI,2009.0,0.5920000000000001
+Moldova,MDA,2009.0,0.589
+Sudan,SDN,2009.0,0.5870000000000001
+Yemen,YEM,2009.0,0.579
+Georgia,GEO,2009.0,0.5760000000000001
+Andorra,AND,2009.0,0.574
+Kuwait,KWT,2009.0,0.556
+Comoros,COM,2009.0,0.551
+Canada,CAN,2009.0,0.5489999999999999
+Cayman Islands,CYM,2009.0,0.547
+Switzerland,CHE,2009.0,0.547
+Austria,AUT,2009.0,0.54
+Zimbabwe,ZWE,2009.0,0.526
+Monaco,MCO,2009.0,0.521
+Burma,MMR,2009.0,0.521
+Malawi,MWI,2009.0,0.519
+Egypt,EGY,2009.0,0.509
+Syria,SYR,2009.0,0.503
+Luxembourg,LUX,2009.0,0.498
+Gibraltar,GIB,2009.0,0.498
+San Marino,SMR,2009.0,0.494
+Ukraine,UKR,2009.0,0.49200000000000005
+China,CHN,2009.0,0.491
+Iraq,IRQ,2009.0,0.484
+Tajikistan,TJK,2009.0,0.48200000000000004
+Estonia,EST,2009.0,0.47600000000000003
+Morocco,MAR,2009.0,0.466
+Brunei,BRN,2009.0,0.456
+Equatorial Guinea,GNQ,2009.0,0.45299999999999996
+Botswana,BWA,2009.0,0.444
+Spain,ESP,2009.0,0.43799999999999994
+Uzbekistan,UZB,2009.0,0.428
+Bosnia and Herzegovina,BIH,2009.0,0.41600000000000004
+Belarus,BLR,2009.0,0.397
+Netherlands,NLD,2009.0,0.389
+Sao Tome and Principe,STP,2009.0,0.389
+Aruba,ABW,2009.0,0.387
+Turkmenistan,TKM,2009.0,0.386
+Cook Islands,COK,2009.0,0.379
+Peru,PER,2009.0,0.376
+Azerbaijan,AZE,2009.0,0.373
+Cyprus,CYP,2009.0,0.366
+Libya,LBY,2009.0,0.36200000000000004
+Serbia,SRB,2009.0,0.359
+United States,USA,2009.0,0.353
+Paraguay,PRY,2009.0,0.34700000000000003
+Lithuania,LTU,2009.0,0.33899999999999997
+Bangladesh,BGD,2009.0,0.332
+Mongolia,MNG,2009.0,0.331
+Panama,PAN,2009.0,0.324
+Dominica,DMA,2009.0,0.313
+Algeria,DZA,2009.0,0.313
+Sri Lanka,LKA,2009.0,0.313
+Slovakia,SVK,2009.0,0.307
+Turkey,TUR,2009.0,0.289
+Russia,RUS,2009.0,0.28300000000000003
+France,FRA,2009.0,0.272
+Ecuador,ECU,2009.0,0.264
+Lesotho,LSO,2009.0,0.26
+Albania,ALB,2009.0,0.257
+Vietnam,VNM,2009.0,0.23399999999999999
+Swaziland,SWZ,2009.0,0.228
+Bulgaria,BGR,2009.0,0.22399999999999998
+Ireland,IRL,2009.0,0.223
+Argentina,ARG,2009.0,0.213
+Germany,DEU,2009.0,0.18899999999999997
+Somalia,SOM,2009.0,0.179
+Greece,GRC,2009.0,0.175
+Slovenia,SVN,2009.0,0.174
+Armenia,ARM,2009.0,0.174
+Mauritania,MRT,2009.0,0.172
+Romania,ROU,2009.0,0.168
+Sweden,SWE,2009.0,0.16699999999999998
+British Virgin Islands,VGB,2009.0,0.16699999999999998
+Lebanon,LBN,2009.0,0.161
+Hungary,HUN,2009.0,0.158
+Cambodia,KHM,2009.0,0.157
+Finland,FIN,2009.0,0.14
+Anguilla,AIA,2009.0,0.14
+Tuvalu,TUV,2009.0,0.139
+United Kingdom,GBR,2009.0,0.139
+Mexico,MEX,2009.0,0.135
+Liechtenstein,LIE,2009.0,0.128
+Australia,AUS,2009.0,0.126
+New Zealand,NZL,2009.0,0.102
+Uruguay,URY,2009.0,0.092
+Barbados,BRB,2009.0,0.091
+Croatia,HRV,2009.0,0.087
+Nicaragua,NIC,2009.0,0.081
+Guyana,GUY,2009.0,0.078
+Palau,PLW,2009.0,0.077
+Niue,NIU,2009.0,0.071
+Czech Republic,CZE,2009.0,0.069
+Seychelles,SYC,2009.0,0.067
+Grenada,GRD,2009.0,0.064
+Poland,POL,2009.0,0.06
+Antigua and Barbuda,ATG,2009.0,0.057
+Honduras,HND,2009.0,0.055999999999999994
+Dominican Republic,DOM,2009.0,0.053
+Denmark,DNK,2009.0,0.051
+Costa Rica,CRI,2009.0,0.05
+Chile,CHL,2009.0,0.034
+Kiribati,KIR,2009.0,0.033
+Brazil,BRA,2009.0,0.032
+Colombia,COL,2009.0,0.03
+Japan,JPN,2009.0,0.027999999999999997
+Marshall Islands,MHL,2009.0,0.027000000000000003
+Venezuela,VEN,2009.0,0.026000000000000002
+Portugal,PRT,2009.0,0.022000000000000002
+Saint Lucia,LCA,2009.0,0.02
+Iceland,ISL,2009.0,0.019
+Malta,MLT,2009.0,0.016
+Tonga,TON,2009.0,0.013999999999999999
+Tunisia,TUN,2009.0,0.012
+Jamaica,JAM,2009.0,0.011000000000000001
+Maldives,MDV,2009.0,0.01
+Saint Kitts and Nevis,KNA,2009.0,0.01
+Saint Vincent and the Grenadines,VCT,2009.0,0.009000000000000001
+El Salvador,SLV,2009.0,0.004
+Rwanda,RWA,2009.0,0.004
+Burundi,BDI,2009.0,0.004
+Samoa,WSM,2009.0,0.002
+Cuba,CUB,2009.0,0.001
+Haiti,HTI,2009.0,0.0
+American Samoa,ASM,,
+"Bahamas, The",BHM,2009.0,0.386
+Bermuda,BMU,,
+Cabo Verde,CPV,,
+"Congo, Democratic Republic of the",COD,2009.0,0.948
+"Congo, Republic of the",COG,,
+Cote d'Ivoire,CIV,,
+Curacao,CUW,,
+Falkland Islands (Islas Malvinas),FLK,,
+Faroe Islands,FRO,,
+French Polynesia,PYF,,
+"Gambia, The",GMB,,
+Greenland,GRL,,
+Guam,GUM,,
+Guernsey,GGY,,
+Hong Kong,HKG,,
+Isle of Man,IMN,,
+Jersey,JEY,,
+"Korea, North",PRK,,
+"Korea, South",KOR,2009.0,0.003
+Kosovo,KSV,,
+Macau,MAC,,
+Macedonia,MKD,,
+"Micronesia, Federated States of",FSM,,
+Montenegro,MNE,,
+New Caledonia,NCL,,
+Northern Mariana Islands,MNP,,
+Puerto Rico,PRI,,
+Saint Martin,MAF,,
+Saint Pierre and Miquelon,SPM,,
+Sint Maarten,SXM,,
+South Sudan,SSD,,
+Taiwan,TWN,,
+Timor-Leste,TLS,,
+Virgin Islands,VGB,,
+West Bank,WBG,,
